@@ -1,0 +1,2 @@
+[2018-11-30T23:54:30.675] [ERROR] logErr - Cheese is too ripe!
+[2018-11-30T23:54:30.675] [FATAL] logErr - Cheese was breeding ground for listeria.
